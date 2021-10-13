@@ -29,3 +29,5 @@ redisClient.hkeys("species", function (err, replies) {
     });
     redisClient.quit();
 });
+
+int i=0;
